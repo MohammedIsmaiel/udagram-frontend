@@ -15,7 +15,7 @@ spec:
         service: udagram-frontend
     spec:
       containers:
-      - image: mohammedismaiel/udagram-frontend:v9
+      - image: mohammedismaiel/udagram-frontend:v12
         name: udagram-frontend
         imagePullPolicy: Always
         ports:
